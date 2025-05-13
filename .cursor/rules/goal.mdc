@@ -1,0 +1,12 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+这是一个AI系统，可以和人对话，协助人类进行智力工作。
+
+根文档为： [README.md](mdc:README.md)
+
+当前的进展，见文档： [roadmap.md](mdc:doc/roadmap.md)
+
+
